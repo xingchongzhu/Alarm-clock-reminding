@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">desklock</string>
+    <string name="description_direction_right" msgid="5709209043267548985">"向右滑动可关闭提醒"</string>
+    <string name="description_direction_left" msgid="7448141043674998679">"向左滑动可暂停提醒"</string>
+    <string name="description_direction_both" msgid="1841309486023845685">"向左滑动可暂停，向右滑动可关闭"</string>
+    <string name="alarm_alert_snoozed_text" msgid="7064642998528766113">"已暂停"</string>
+    <string name="alarm_alert_off_text" msgid="4472073417593915002">"提醒已关闭"</string>
+</resources>
